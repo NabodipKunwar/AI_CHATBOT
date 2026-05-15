@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+env/
+
+.vscode/
+
+fine_tuned_model/
+fine_tuned_model/checkpoint-*/
+
+.DS_Store
+Thumbs.db

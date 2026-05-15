@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI CHATBOT</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🤖 AI CHATBOT</h1>
+
+    <p class="subtitle">
+        Poem Generator • Personal Advice • Story Generator
+    </p>
+
+    <form method="POST" action="/generate">
+
+        <label>Choose AI Feature</label>
+
+        <select name="mode" required>
+            <option value="poem">AI Mood-to-Poem Generator</option>
+            <option value="advice">AI Personal Advice Chatbot</option>
+            <option value="story">AI Data-to-Story Generator</option>
+        </select>
+
+        <label>Enter Your Text</label>
+
+        <textarea
+            name="message"
+            placeholder="Example: happy but missing my family / exam stress / a robot enters a magical forest"
+            required
+        ></textarea>
+
+        <button type="submit">Generate Response</button>
+
+    </form>
+
+    {% if response %}
+    <div class="response-box">
+        <h2>AI Response</h2>
+        <p>{{ response }}</p>
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

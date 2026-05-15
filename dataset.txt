@@ -1,0 +1,134 @@
+### Instruction:
+Write a beautiful 8-line poem about feeling happy after success.
+
+### Response:
+Golden sunlight fills the sky,
+Dreams and hopes are flying high.
+After every painful night,
+Comes a calm and shining light.
+Steps once small became so strong,
+Hearts now dance with joyful song.
+Every challenge helped me grow,
+Like the rivers softly flow.
+
+### Instruction:
+Write a beautiful 8-line poem about feeling lonely on a rainy night.
+
+### Response:
+Rain keeps falling through the dark,
+Silent winds and distant spark.
+Lonely roads and empty skies,
+Quiet tears in tired eyes.
+Yet the stars still softly glow,
+Giving hearts a place to grow.
+Even in the deepest rain,
+Hope will slowly rise again.
+
+### Instruction:
+Write a beautiful 8-line poem about missing family while studying far away.
+
+### Response:
+Far from home beneath the night,
+Memories glow soft and bright.
+Voices echo through my mind,
+Love like stars I always find.
+Though the roads feel cold and long,
+Family lives in every song.
+One day soon I'll homeward roam,
+Back again to warmth and home.
+
+### Instruction:
+Write a beautiful 8-line poem about working hard for a dream.
+
+### Response:
+Every morning starts the fight,
+Turning darkness into light.
+Step by step the climb goes high,
+Dreams awaken in the sky.
+Though the road feels hard and steep,
+Faith is something strong to keep.
+Hard work builds the future strong,
+Turning weakness into song.
+
+### Instruction:
+Write a beautiful 8-line poem about feeling calm near a river.
+
+### Response:
+Gentle rivers softly flow,
+Peaceful winds begin to blow.
+Quiet trees and silver skies,
+Nature sings and worries die.
+Every wave removes the pain,
+Calmness fills the heart again.
+Through the silence spirits heal,
+Soft and peaceful moments feel.
+
+### Instruction:
+Give kind and practical personal advice about exam stress.
+
+### Response:
+Exam stress becomes easier when you prepare step by step instead of trying to study everything at once. Create a daily study routine, take short breaks, and sleep properly every night. Stay positive and focus on progress instead of perfection.
+
+### Instruction:
+Give kind and practical personal advice about coding frustration.
+
+### Response:
+Coding frustration is normal while learning. When you feel stuck, take a short break and return with a fresh mind. Solve one problem at a time and practice consistently. Every error helps you improve your skills.
+
+### Instruction:
+Give kind and practical personal advice about overthinking.
+
+### Response:
+Overthinking can make small problems feel much larger than they really are. Focus on facts instead of fears and avoid imagining negative outcomes too quickly. Relax your mind with music, exercise, or deep breathing.
+
+### Instruction:
+Give kind and practical personal advice about lack of confidence.
+
+### Response:
+Confidence grows slowly through practice and experience. Start with small goals and celebrate small improvements every day. Stop comparing yourself to others and focus on your own progress.
+
+### Instruction:
+Give kind and practical personal advice about time management.
+
+### Response:
+Good time management starts with proper planning. Create a simple schedule and complete important tasks first. Avoid distractions while studying or working and remember to take regular breaks.
+
+### Instruction:
+Write a creative short story about a robot entering a magical forest.
+
+### Response:
+A small silver robot named Ziro entered a magical forest filled with glowing trees and floating lights. He was searching for a crystal that could save his dying village.
+
+Deep inside the forest, Ziro met tiny magical creatures who feared a dark shadow hiding in the mountains. By helping them defeat the darkness, Ziro discovered the crystal and learned that kindness was stronger than power.
+
+### Instruction:
+Write a creative short story about a poor student building a robot.
+
+### Response:
+A poor student named Arin spent every night building a small robot using broken machine parts. While others laughed at him, he continued working with patience and determination.
+
+One day, heavy floods destroyed nearby farms, but Arin’s robot helped rescue villagers and deliver supplies safely. The village finally understood his talent, and Arin became known as the boy who used knowledge to help others.
+
+### Instruction:
+Write a creative short story about a dragon protecting a village.
+
+### Response:
+High above the snowy mountains lived a giant dragon feared by everyone in the kingdom. People believed the dragon would destroy their peaceful village one day.
+
+But when dangerous storms attacked the village, the dragon used its powerful wings to protect the homes and save the villagers. Slowly, fear turned into friendship, and the dragon became the guardian of the mountain people.
+
+### Instruction:
+Write a creative short story about a child finding a magical book.
+
+### Response:
+While cleaning an old attic, a young child discovered a glowing book covered in silver symbols. When the child opened it, the pages began writing messages by themselves.
+
+The magical book transported the child into hidden worlds filled with adventure and mystery. Along the journey, the child learned lessons about courage, friendship, and imagination.
+
+### Instruction:
+Write a creative short story about an astronaut landing on a strange planet.
+
+### Response:
+After years of traveling through space, an astronaut finally landed on a glowing blue planet surrounded by crystal mountains. Strange lights floated across the sky like dancing stars.
+
+The astronaut soon discovered peaceful alien creatures living beneath the surface of the planet. Instead of fear, both sides shared knowledge and friendship, beginning a new chapter between worlds.
